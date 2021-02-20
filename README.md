@@ -8,7 +8,7 @@ The output file contains:
 2. Number of all objects containing fails (message=="000", fail control bit (id: even = 0, uneven = 1)) - failSum;
 3. All error-free object stored in the form and order in which they occurred in the input file - stringBuilder.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Program mający na celu wczytanie pliku txt, w którym znajduje się ciąg zawierający informację na temat obiektów reprezentowanych przez 8 kolejnych bitów (4 id, 3 message, 1 control). 
 
